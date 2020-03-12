@@ -1,9 +1,3 @@
-import java.text.DateFormatSymbols;
-import java.util.Date;
-
-import javax.print.attribute.DateTimeSyntax;
-import javax.print.attribute.standard.DateTimeAtCompleted;
-
 public class ExercicioUm {
 
 	public static boolean ehDiaSemana(String dia) {
